@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cineos-io/.github/main/assets/cineos-logo.png" alt="CineOs" width="180" />
+<img src="https://avatars.githubusercontent.com/u/260514386?s=400&u=3e33c8af1abfcca31947a7a50ae6d813a13a92eb&v=4" alt="CineOs" width="180" />
 
 <br/><br/>
 
@@ -126,7 +126,7 @@ CineOs doesn't just return results. It **explains why** each film matches — wh
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/cineos-io/.github/main/assets/cineos-logo.png" alt="CineOs" width="40" />
+<img src="https://avatars.githubusercontent.com/u/260514386?s=400&u=3e33c8af1abfcca31947a7a50ae6d813a13a92eb&v=4" alt="CineOs" width="40" />
 
 <br/><br/>
 
